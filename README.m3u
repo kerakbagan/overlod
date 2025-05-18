@@ -2,6 +2,8 @@
 
 #EXTM3U
 
+#======MALAYSIA======
+
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-HD
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/13.ts
 
@@ -89,7 +91,7 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/39.ts
 #EXTINF:-1 tvg-id="TVS" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA",TVS
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/59.ts
 
-
+#======KIDS======
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wNHRNJg/1691448706318.png" group-title="KIDS",Moonbug
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/1025.ts
 
@@ -174,6 +176,7 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/273.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",Baby TV
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/694.ts
 
+#======INDONESIA======
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="INDONESIA",NET.
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/50.ts
 
@@ -240,7 +243,7 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/49.ts
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="INDONESIA",RCTI
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/47.ts
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="INDONESIA",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="INDONESIA" INDOSIAR
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/45.ts
 
 #EXTINF:-1 tvg-id="OLY8" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="INDONESIA",TRANS TV
@@ -276,6 +279,7 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/475.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",iNews
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/2203.ts
 
+======INDIA======
 #EXTINF:-1 tvg-id="zeecinema" tvg-logo="https://i.ibb.co/F7rvJPN/1684669911421.png" group-title="INDIA",Zee Cinema
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/302.ts
 
@@ -348,6 +352,7 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/58.ts
 #EXTINF:-1 tvg-id="Zee.MACAN" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="INDIA",ZEE Bioskop
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/53.ts
 
+#======CHINESE======
 #EXTINF:-1 tvg-id="AEC" tvg-logo="https://i.ibb.co/3s9dG9G/fdiy.png" group-title="CHINESE",AEC
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/60.ts
 
@@ -429,6 +434,7 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/70.ts
 #EXTINF:-1 tvg-id="GEMChannel.id" tvg-logo="https://i.ibb.co/6HF0DHS/svc.png" group-title="JAPAN",Sony GEM TV
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/72.ts
 
+#======JAPAN======
 #EXTINF:-1 tvg-id="Animax.MACAN" tvg-logo="https://i.ibb.co/jDKvSs3/CVZXS.png" group-title="JAPAN",Animax
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/69.ts
 
@@ -438,6 +444,7 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/70.ts
 #EXTINF:-1 tvg-id="GEMChannel.id" tvg-logo="https://i.ibb.co/6HF0DHS/svc.png" group-title="JAPAN",Sony GEM TV
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/72.ts
 
+#======KOREA======
 #EXTINF:-1 tvg-id="TVN.MACAN" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="KOREA",tvN
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/75.ts
 
@@ -473,6 +480,7 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/78.ts
 #EXTINF:-1 tvg-id="Kplus" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="KOREA",K+
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/80.ts
 
+#======ENTERTAINMENT======
 #EXTINF:-1 tvg-id="KIX.MACAN" tvg-logo="https://i.ibb.co/8jRb2YX/xgf.png" group-title="ENTERTAINMENT",KIX
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/82.ts
 
