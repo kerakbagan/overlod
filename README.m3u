@@ -2,7 +2,6 @@
 
 #EXTM3U
 
-
 #======MALAYSIA======
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-HD
@@ -88,7 +87,6 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/39.ts
 
 #EXTINF:-1 tvg-id="TVS" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA",TVS
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/59.ts
-
 #======INDONESIA======
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="INDONESIA",NET.
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/50.ts
