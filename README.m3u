@@ -523,6 +523,7 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/845.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="ENTERTAINMENT",HITS
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/843.ts
 
+#======MOVIES======
 #EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-logo="https://i.ibb.co/LYHGVNp/jbv.png" group-title="MOVIES",Celestial Movies
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/64.ts
 
@@ -561,7 +562,6 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/89.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/s2xvMWW/wrfd.png" group-title="MOVIES",Rock Entertainment
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/88.ts
-
 
 #EXTINF:-1 tvg-id="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="MOVIES",Galaxy
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/108.ts
@@ -723,9 +723,10 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/110.ts
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/112.ts
 
 
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="MOVIES",IMC
+#EXTINF:-1 tvg-id="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="MOVIES",IMC
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/113.ts
 
+#======KNOWLEDGE======
 #EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-logo="https://i.ibb.co/Y37JzVV/fcd.png" group-title="KNOWLEDGE ",Discovery Channel
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/124.ts
 
@@ -759,7 +760,6 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/124.ts
 #EXTINF:-1 tvg-id="Discovery Asia" tvg-logo="https://i.ibb.co/MCNzx28/HFFD.png" group-title="KNOWLEDGE ",Discovery Asia
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/125.ts
 
-
 #EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-logo="https://i.ibb.co/R349X0T/hv.png" group-title="KNOWLEDGE ",Animal Planet
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/123.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xSXJ1SD/cfgs.png" group-title="KNOWLEDGE ",Love Nature
@@ -780,6 +780,7 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/127.ts
 #EXTINF:-1 tvg-id="TLC.MACAN" tvg-logo="https://i.ibb.co/X5vKy5T/SCX.png" group-title="KNOWLEDGE ",TLC
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/128.ts
 
+#======NEWS======
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SmMjGyq/zcaa.png" group-title="NEWS",SEA Today
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/145.ts
 
@@ -807,12 +808,10 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/145.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GVHqZgm/dyt.png" group-title="NEWS",NHK World
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/147.ts
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vdbLMgk/dgx.png" group-title="NEWS",CNN Indonesia
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/149.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1MjwL56/vgj.png" group-title="NEWS",DW
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/150.ts
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W6SJcZT/xdghf.png" group-title="NEWS",Bloomberg
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/151.ts
@@ -822,6 +821,7 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/152.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zx3WHbV/ASC.png" group-title="NEWS",CNN International
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/842.ts
 
+#======SPORTS======
 #EXTINF:-1 tvg-id="Arena" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SPORTS",Arena
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/154.ts
 
@@ -948,6 +948,7 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/168.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://link.zozotv.xyz/pic/sportuhdzozo.png" group-title="SPORTS",Sport UHD
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/2165.ts
 
+#======Requested=======
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbn9Hxj7GEBxrZ8biAfIjhYSs1Y.jpg" group-title="Requested",Mann (1999)
 https://zozotv.xyz:443/movie/mdfazrin86/ztv728269/2208.mp4
 
