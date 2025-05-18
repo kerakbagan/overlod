@@ -2,6 +2,7 @@
 
 #EXTM3U
 
+
 #======MALAYSIA======
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-HD
@@ -16,10 +17,8 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/15.ts
 #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="MALAYSIA",TV2-SD
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/16.ts
 
-
 #EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-HD
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/17.ts
-
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-FHD
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/19.ts
